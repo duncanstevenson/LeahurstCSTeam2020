@@ -17,9 +17,7 @@ make note of added dependencies
 make note of added functions
 """
 
-def throwaway(x):
-    print("Hello World")
-    
+
 def read_file_contents(filename):
     """
     This function loads all the information in a given file. (remember to include .txt)
